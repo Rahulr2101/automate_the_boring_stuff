@@ -1,0 +1,84 @@
+1. What are the two values of the Boolean data type? How do you write them?
+
+Ans: The two values of Boolean data type are true and false. The starting letter of boolean values should be capital like True,False.
+
+2. What are the three Boolean operators?
+
+Ans:  The three Boolean operators are
+        1. ==
+        2. <
+        3. >
+    '==' operator is used to evaluate the values on both sides are same or not. If both values are same then condition will be true if not then false
+
+    '<' and '>' are both comparsiom operator.
+
+3. Write out the truth tables of each Boolean operator (that is, every possible combination of Boolean values for the operator and what they evaluate to).
+
+Ans:            | Boolean operator | Values |
+                |------------------|--------|
+                | True == True     | True   |
+                | False == False   | True   |
+                | True == False    | False  |
+                | True > False     | True   |
+                | False > True     | False  |
+                | True != False    | True   |
+                | False != False   | False  |
+                | True != True     | False  |
+                | True or False    | True   |
+                | False or False   | True   |
+                | True or True     | True   |
+                | True and False   | False  |
+                | False and False  | False  |
+                | True and True    | True   |
+
+4. What do the following expressions evaluate to?
+
+    (5 > 4) and (3 == 5)
+    not (5 > 4)
+    (5 > 4) or (3 == 5)
+    not ((5 > 4) or (3 == 5))
+    (True and True) and (True == False)
+    (not False) or (not True)
+
+Ans:   (5 > 4) and (3 == 5)  = False
+       not (5 > 4) = False
+       (5 > 4) or (3 == 5) = True
+       not ((5 > 4) or (3 == 5)) = False
+      (True and True) and (True == False) = False
+      (not False) or (not True) = True
+
+5. What are the six comparison operators?
+
+Ans:  The six comparison operator are :
+            1. <
+            2. ==
+            3. >
+            4 !=
+            5. and
+            6. or
+
+6. What is the difference between the equal to operator and the assignment operator?
+
+Ans:  Equal to operator is to comparison like it will compare two value if the both value are equal when it will be True else it will be False.
+      assignment operator is used to assign values to a variable.
+
+7. Explain what a condition is and where you would use one.
+
+Ans:  Condition is statement which evaluate actions in the program and evalutes if it true or false.
+        .It should be used where we want a specific code to be run when some condition is met.
+
+10. What keys can you press if your program is stuck in an infinite loop?
+
+Ans:  CTRL + C can be use to stop a program
+
+11. What is the difference between break and continue?
+
+Ans: Break is used in loop its actual use is to stop a program. Continue is also used in loop its use is When the program reaches to continues statement it will skip the code written below it.
+
+12. What is the difference between range(10), range(0, 10), and range(0, 10, 1) in a for loop?
+
+Ans: Range(10) will count number from 0 to 9  and same range(0,10) will also do.
+    range(0,10,1) will count in a parttern of 1. eg 0,1,2,3,4,5,6,7,8,9
+
+14. If you had a function named bacon() inside a module named spam, how would you call it after importing spam?
+Ans:  We can call the function by using "spam.bacon()"

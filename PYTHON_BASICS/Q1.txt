@@ -1,0 +1,57 @@
+1. Which of the following are operators, and which are values?
+
+Ans:     Operators : *,-,/,+
+         values : 'hello',-88.8,5
+
+2. Which of the following is a variable, and which is a string?
+
+Ans: spam is variable and 'spam' is a string.
+
+3. Name three data types.
+
+Ans: Three data types are:
+                1.  String data type
+                2.  Integer data type
+                3.  Float data type
+
+4. What is an expression made up of? What do all expressions do?
+
+Ans:  Experssion is made of number and operators. It is used to perform different operation on number.
+
+5. This chapter introduced assignment statements, like spam = 10. What is the difference between an expression and a statement?
+
+Ans: 
+
+6. What does the variable bacon contain after the following code runs?
+
+Ans: bacon will have 21 stored in it.
+
+7. What should the following two expressions evaluate to?
+        'spam' + 'spamspam'
+        'spam' * 3
+
+Ans:  'spam' + 'spamspam' = 'spamspamspam' it will concatenation the two strings
+      'spam'*3 = 'spamspamspam' String value repeats itself anumber of times equal to integer value.
+
+
+8. Why is eggs a valid variable name while 100 is invalid?
+
+Ans:  There are rule to be followed  for naming a varible:
+                1. It can be only one word with no space
+                2. it can use only letters,number,and the underscore character.\
+                3. It can't begin with a number.
+      That why 100 is not a valid variable.
+
+9. What three functions can be used to get the integer, floating-point number, or string version of a value?
+
+Ans:  We can use int(value),str(value),float(value) to interchange the datatype of a value.
+
+10. Why does this expression cause an error? How can you fix it?
+        'I have eaten ' + 99 + ' burritos.'
+
+Ans:  You can concatenation two string together or to add two integer together. But you can't add an interger to a string.
+
+        You can fix it by converting the datatype of 99 to String datatype
+
+        like:
+                'I have eaten' + str(99) + ' burritos '.
