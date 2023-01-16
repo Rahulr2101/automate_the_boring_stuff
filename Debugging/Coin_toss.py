@@ -3,6 +3,7 @@ guess = ''
 while guess not in (1, 0):
     print('Guess the coin toss! Enter heads or tails:')
     guess = input()
+    ##
     if guess == 'heads':
         guess = 1
     elif guess == 'tails':
