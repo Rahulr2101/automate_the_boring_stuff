@@ -1,0 +1,9 @@
+Looking to get started in Linux? Develop a good working knowledge of Linux using both the graphical interface and command line across the major Linux distribution families with The Linux Foundation’s Intro to Linux online course. Enroll for free here. (Este curso también está disponible en español. Haga clic aquí para Introducción a Linux.)
+
+From smartphones to cars, supercomputers and home appliances, home desktops to enterprise servers, the Linux operating system is everywhere.
+
+Linux has been around since the mid-1990s and has since reached a user-base that spans the globe. Linux is actually everywhere: It’s in your phones, your thermostats, in your cars, refrigerators, Roku devices, and televisions. It also runs most of the Internet, all of the world’s top 500 supercomputers, and the world’s stock exchanges.
+
+But besides being the platform of choice to run desktops, servers, and embedded systems across the globe, Linux is one of the most reliable, secure and worry-free operating systems available.
+
+Here is all the information you need to get up to speed on the Linux platfo
